@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MenuScene.updateBackground() -&gt; ():MenuScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.backgroundNode.position.x">
+            </PersistentString>
+            <PersistentString
+               value = "self.amountBgMoved">
+            </PersistentString>
+            <PersistentString
+               value = "self.cameraNode.position.x">
+            </PersistentString>
+            <PersistentString
+               value = "self.backgroundNode.calculateAccumulatedFrame().width/2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BlocksGenerator.addRandomBlockNode() -&gt; ():BlocksGenerator.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BlocksGenerator.createSpikeNode() -&gt; ():BlocksGenerator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "spikes.texture">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HUD.setupHUDCoins(collected : Int) -&gt; ():HUD.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "coinsCollected.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MenuScene.setupMenuScene() -&gt; ():MenuScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "background.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
